@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>DataDistillery</title>
+    <link>https://skybristol.github.io/datadistillery/</link>
+    <description>Recent content on DataDistillery</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://skybristol.github.io/datadistillery/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://skybristol.github.io/datadistillery/about/</link>
+      <pubDate>Sun, 26 Nov 2023 06:21:50 -0700</pubDate>
+      
+      <guid>https://skybristol.github.io/datadistillery/about/</guid>
+      <description>About the data distillery</description>
+    </item>
+    
+  </channel>
+</rss>
