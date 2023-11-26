@@ -2,3 +2,6 @@ baseURL: "https://skybristol.github.io/datadistillery/"
 languageCode: en-us
 title: DataDistillery
 theme: PaperMod
+
+params:
+  defaultTheme: auto
