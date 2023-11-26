@@ -5,3 +5,13 @@ theme: PaperMod
 
 params:
   defaultTheme: auto
+  profileMode:
+    enabled: true
+    subtitle: "There are no bad data, just data that haven't been distilled yet."
+    imageUrl: "DataDistillery_small.jpeg"
+    imageTitle: "distilling data one drop at a time"
+    imageWidth: 120
+    imageHeight: 120
+    buttons:
+      - name: About
+        url: "about"
